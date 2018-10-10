@@ -1,0 +1,24 @@
+[submodule "crypto"]
+	path = crypto
+	url = https://github.com/golang/crypto.git
+[submodule "exp"]
+	path = exp
+	url = https://github.com/golang/exp.git
+[submodule "image"]
+	path = image
+	url = https://github.com/golang/image.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/golang/mobile.git
+[submodule "net"]
+	path = net
+	url = https://github.com/golang/net.git
+[submodule "sys"]
+	path = sys
+	url = https://github.com/golang/sys.git
+[submodule "text"]
+	path = text
+	url = https://github.com/golang/text.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/golang/tools.git
