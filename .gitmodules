@@ -1,6 +1,21 @@
+[submodule "arch"]
+	path = arch
+	url = https://github.com/golang/arch.git
+[submodule "benchmarks"]
+	path = benchmarks
+	url = https://github.com/golang/benchmarks.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/golang/blog.git
+[submodule "build"]
+	path = build
+	url = https://github.com/golang/build.git
 [submodule "crypto"]
 	path = crypto
 	url = https://github.com/golang/crypto.git
+[submodule "debug"]
+	path = debug
+	url = https://github.com/golang/debug.git
 [submodule "exp"]
 	path = exp
 	url = https://github.com/golang/exp.git
@@ -13,12 +28,39 @@
 [submodule "net"]
 	path = net
 	url = https://github.com/golang/net.git
+[submodule "oauth2"]
+	path = oauth2
+	url = https://github.com/golang/oauth2.git
+[submodule "perf"]
+	path = perf
+	url = https://github.com/golang/perf.git
+[submodule "playground"]
+	path = playground
+	url = https://github.com/golang/playground.git
+[submodule "review"]
+	path = review
+	url = https://github.com/golang/review.git
+[submodule "sync"]
+	path = sync
+	url = https://github.com/golang/sync.git
 [submodule "sys"]
 	path = sys
 	url = https://github.com/golang/sys.git
+[submodule "talks"]
+	path = talks
+	url = https://github.com/golang/talks.git
 [submodule "text"]
 	path = text
 	url = https://github.com/golang/text.git
+[submodule "time"]
+	path = time
+	url = https://github.com/golang/time.git
 [submodule "tools"]
 	path = tools
 	url = https://github.com/golang/tools.git
+[submodule "tour"]
+	path = tour
+	url = https://github.com/golang/tour.git
+[submodule "vgo"]
+	path = vgo
+	url = https://github.com/golang/vgo.git
